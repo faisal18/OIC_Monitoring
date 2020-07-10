@@ -10,6 +10,7 @@ namespace OIC_Monitoring
     {
         static void Main(string[] args)
         {
+
             Monitoring.exectue();
             //OIC_Eauth_ProviderPortal.execute();
         }
